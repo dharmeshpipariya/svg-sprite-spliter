@@ -1,0 +1,17 @@
+{
+  "name": "svg-sprite-spliter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.2",
+    "svg-parser": "^2.0.4",
+    "replace": "^1.2.1",
+    "replace-in-file": "^6.3.2"
+  }
+}
